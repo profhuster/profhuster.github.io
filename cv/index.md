@@ -62,10 +62,10 @@ Nero, R.W. and Huster, M. E., "Low-frequency acoustic imaging of Pacific salmon 
 * A Net Force Direction Demonstration, No. California-Nevada AAPT meeting, April 5, 2003. 
 
 ## Professional Society Memberships
-* American Association of Physics Teachers. (AAPT)
-* American Modeling Teachers  Association (AMTA)
+* American Association of Physics Teachers. (AAPT) http://aapt.org
+* American Modeling Teachers  Association (AMTA) http://modelinginstruction.org/
 * STEM Teachers New York City. http://www.physicsteachersnyc.org 
-* American Scientific Affiliation. (ASA)   
+* American Scientific Affiliation. (ASA) http://asa3.org
 
 
 ## Conferences and Workshops Attended
