@@ -69,6 +69,7 @@ Nero, R.W. and Huster, M. E., "Low-frequency acoustic imaging of Pacific salmon 
 
 
 ## Conferences and Workshops Attended
+* Advanced Labs for Physics – FPGA Workshop, July 2015. Bethel University, St. Paul MN.
 * AAPT Summer Meeting, July 2014, Minneapolis, MN.
 * Advanced Labs for Physics – Arduino Workshop, July 2014. Led by Eric Ayars, Chico State University, CA.
 * Modeling Instruction in Mechanics (Week 2 of 3), July 2012. Columbia Teachers College. Led by Mark Schober, Craig Buszka, and Fernand Brunschwig. 
