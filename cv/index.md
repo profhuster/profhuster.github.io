@@ -2,21 +2,30 @@
 layout: default
 title: CV for Michael Huster, profhuster
 ---
-# Michael Huster's Curriculum Vitae
-
 # Curriculum Vitae
 Michael E. Huster
+
+
 Instructor & Director of Instructional Labs
+
+
 Physics Department, Duquesne University 
+
+
 600 Forbes Ave
+
+
 Pittsburgh, PA 15282
+
+
 mhuster55@gmail.com
 
 
 ## Education
-University of California, Santa Barbara, Santa Barbara, CA	B. A. in physics
-University of Pennsylvania, Philadelphia, PA			M. S. in physics
-University of Pennsylvania, Philadelphia, PA			Ph. D. in physics
+* University of California, Santa Barbara, Santa Barbara, CA	B. A. in physics
+* University of Pennsylvania, Philadelphia, PA			M. S. in physics
+* University of Pennsylvania, Philadelphia, PA			Ph. D. in physics
+
 ## Professional Experience
 * July 2014 – Present.
 Instructor & Director of Instructional Labs, Duquesne University, Pittsburgh, PA
