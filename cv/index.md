@@ -18,7 +18,7 @@ Physics Department, Duquesne University
 Pittsburgh, PA 15282
 
 
-mhuster55@gmail.com
+husterm@duq.edu
 
 
 ## Education
@@ -41,6 +41,11 @@ Conducted applied research in physical oceanography.
 Technical staff at Energy Science Laboratories. Designed and built experiments on low-gravity growth of nanowires. 
 * August 1984 - August 1986. 
 Post-doctorate appointment at Massachusetts Institute of Technology. Conducted research on phase transitions in liquid crystal. 
+## Current Teaching Responsibilities
+* Lab for General Analytical Physics I and II
+* Optics Lab (second year physics)
+* Modern Physics Lab (second/third year physics)
+
 
 ## Publications
 * Huster, M. E., “An Improved Box Theater,” The Physics Teacher, September 2011.
