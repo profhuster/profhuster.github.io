@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'TrebuchetMS', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -12,30 +12,48 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+li {
+    font-size: 1.0em;
+    color: #333;
+    font-family:'Verdana', 'Calibri', 'Arial', 'Sans-Serif';
+}
 a {
     text-decoration: none;
-    color: #999;
+    color: #99c;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1.2em;
+    font-family:'TrebuchetMS', 'Helvetica', 'Arial', 'Sans-Serif';
+	font-weight: bold;
+}
+h2 {
+    font-size: 1.2em;
+    font-family:'TrebuchetMS', 'Helvetica', 'Arial', 'Sans-Serif';
+	font-weight: bold;
+	font-style: italic;
+}
+h3 {
+    font-size: 1.2em;
+    font-family:'TrebuchetMS', 'Helvetica', 'Arial', 'Sans-Serif';
+    color: #003;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.0em;
     color: #333;
+    font-family:'Verdana', 'Calibri', 'Arial', 'Sans-Serif';
+
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: .6em;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.0em;
 }
 
 ul.posts li {
