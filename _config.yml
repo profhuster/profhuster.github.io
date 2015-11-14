@@ -1,5 +1,3 @@
 name: Michael Huster, profhuster
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-gems:
-  - jekyll-last-modified-at
