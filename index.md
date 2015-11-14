@@ -16,3 +16,10 @@ See details in the [Courses](courses/) link in the nav bar.
 * General Analytical Physics Lab I &amp; II (first-year, calculus-based physics)
 * Optics Lab - a second year course mostly for physics majors
 * Modern Physics Lab - a second- or third-year course for physics majors.
+
+### Latest Blog Entry
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+</div>
