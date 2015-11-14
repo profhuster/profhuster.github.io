@@ -3,7 +3,6 @@ layout: post
 title: "Working with git and Jekyll"
 date: 2015-11-13
 ---
-### Working with git and Jekyll
 This web site is mostly a way for me to learn to git and github. Along the way I 
 discovered [Jekyll](https://jekyllrb.com/ "Simple, blog-aware, static sites") software
 to make &quot;Simple, blog-aware, static sites&quot;
