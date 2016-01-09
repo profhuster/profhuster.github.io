@@ -10,7 +10,7 @@ By J. Robert Johannson's
   * Second, I recommend [Anaconda](https://www.continuum.io/downloads) if you are going to install python and all of its packages on your own computer. I have had no problem installing and running the whole Jupyter environment on Window, MacOsX, and Linux machines. The Mac installation is even easier now than he describes in the link.
 * [Lecture-1 Introduction to Python Programming](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-1-Introduction-to-Python-Programming.ipynb)
   * This is a nice quick tour through the python language. Yo ushould keep this link handy as you learn python.
-* [Lecture-2 Numpy - multidimensional data arrays](http://google.com)
+* [Lecture-2 Numpy - multidimensional data arrays](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
   * The heart of data analysis usually involves arrays of data. This link is a tour of the _numpy_ library which implements fast array math in python. You should at least scan through the first third of this page. He also shows some reading from files and plotting. 
   * The last two-thirds is optional for getting started. It covers multi-dimensional array, linear algebra, and other topics.
 
