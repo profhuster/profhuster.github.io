@@ -23,7 +23,7 @@ Experiments may vary ranging from basic single optical component set-ups to
 multicomponent set-ups,  basic and advanced interferometry, 
 polarization and holography.
 
-### [Modern Physics Lab](ModPhysLab) - Spring Semesters
+### [Modern Physics Lab](ModPhysLab.html) - Spring Semesters
 
 Experiments demonstrating principles and applications of quantum physics. 
 Students have the opportunity to reproduce historically crucial experiments such as 
