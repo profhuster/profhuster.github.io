@@ -12,7 +12,8 @@ This is the starting page for my  Modern Physics Lab course. The syllabus is [he
 Please read my notes at this [link](Collaboration).
 
 ## Introduction to Course - 12Jan2016
-## Scientific Skills
+
+### Scientific Skills
 One of the goals in this course it to teach scientific skills that you will need in your career. These skills include keeping lab notes, data analysis, writing up results and making presentations. You will use several open source programs to learn these skills.
 
 ### SageMath Cloud
