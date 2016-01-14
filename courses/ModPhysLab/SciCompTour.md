@@ -13,9 +13,13 @@ By J. Robert Johannson's
 * [Lecture-2 Numpy - multidimensional data arrays](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
   * The heart of data analysis usually involves arrays of data. This link is a tour of the _numpy_ library which implements fast array math in python. You should at least scan through the first third of this page. He also shows some reading from files and plotting. 
   * The last two-thirds is optional for getting started. It covers multi-dimensional array, linear algebra, and other topics.
+* [Lecture-3 Scipy - Library of scientific algorithms](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
+ * This lecture shows python's ability in using advanced mathematical techniques. Some that maybe of interest to you are the _Linear Algebra_ about halfway through the notebook, and the _Statistics_ near the bottom.
+* [ Lecture-4-Matplotlib](http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
+ * This is an important lecture because you will definitely be doing plots. You should keep a link to this page handy because you will need many of the things on this page to make professional quality graphs and plots. 
 
-### Not yet linked...
-Lecture-3 Scipy - Library of scientific algorithms
+### Not linked and of less importance
+You can find the complete set at Johansson's [link](http://jrjohansson.github.io/computing.html)
 Lecture-4 Matplotlib - 2D and 3D plotting
 Lecture-5 Sympy - Symbolic algebra
 Lecture-6A Fortran and C integration
