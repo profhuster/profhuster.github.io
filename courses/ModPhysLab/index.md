@@ -24,4 +24,4 @@ Finally, [_SageMath Cloud_](http://cloud.sagemath.com) is a free website that ho
 We will use SageMath Cloud in this course as our electronic lab notebook, data analysis platform, and document writing platform.
 
 ### Going deeper
-If you are interested in getting a deeper tour, there is an excellent series by J. Robert Johannson called _Lectures on Scientific Computing with Python. My annotated tour is [here](SciCompTour).
+If you are interested in getting a deeper tour, there is an excellent series by J. Robert Johannson called _Lectures on Scientific Computing with Python_. My annotated tour is [here](SciCompTour).
