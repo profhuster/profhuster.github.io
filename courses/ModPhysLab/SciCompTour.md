@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modern Physics Lab
+title: Tour of Scientific Computing with Python
 ---
 ### Lectures on Scientific Computing with Python
 By J. Robert Johannson's
