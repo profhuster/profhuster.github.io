@@ -9,7 +9,7 @@ title: Modern Physics Lab
 This is the starting page for my  Modern Physics Lab course. The syllabus is [here](Syllabus). I will update this page throughout the semester.
 
 ## Collaborating with SageMath Cloud (SMC)
-Please read my notes at this [link](Collaboration).
+Please read my notes at this [link](Collaboration.md).
 
 ## Introduction to Course - 12Jan2016
 ## Scientific Skills
