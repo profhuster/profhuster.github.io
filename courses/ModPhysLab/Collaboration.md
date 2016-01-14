@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Modern Physics Lab
+title: Collaboration with SMC
 ---
 
 # How to Collaborate on Lab Notes
