@@ -2,7 +2,7 @@
 This is a one semester, one credit laboratory intended to be taken concurrently with the Optics lecture course.
 * [Syllabus](Files/OpticsLabSyllabus16a.pdf)
 
-## Here are all of the lab handout I used in Fall 2016
+## Here are all of the lab handouts I used in Fall 2016
 
 * [OpticsLab01_CleaningOptics_15a](Files/OpticsLab01_CleaningOptics_15a.pdf)
 * [OpticsLab02_PointExtendedSources_16c](Files/OpticsLab02_PointExtendedSources_16c.pdf)
