@@ -16,7 +16,7 @@ Experiments demonstratng principles and applicatons of electromagnetsm,
 including investgatons of magnetic and electric felds, and electrical circuits. 
 Students learn measurement practces, digital data analysis, and error analysis. 
 
-### [Optics Lab](OpticsLab) - Fall Semesters
+### [Optics Lab](Optics) - Fall Semesters
 
 Laboratory demonstrating optical principles and applications. 
 Experiments may vary ranging from basic single optical component set-ups to 
