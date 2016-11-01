@@ -6,7 +6,8 @@ title: CV for Michael Huster, profhuster
 Michael E. Huster
 
 
-Instructor & Director of Instructional Labs
+Assistant Professor of Physics
+Director of Instructional Labs
 
 
 Physics Department, Duquesne University 
