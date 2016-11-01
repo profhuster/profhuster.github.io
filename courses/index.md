@@ -29,3 +29,7 @@ Experiments demonstrating principles and applications of quantum physics.
 Students have the opportunity to reproduce historically crucial experiments such as 
 the photoelectric effect, the Frank-Hertz experiment, and the Millikan oil drop experiment, 
 and to experiment with nuclear decay, superconductivity, and pulsed NMR spectrometry. 
+
+### [Electronics](Electronics) - Fall Semesters
+
+Darryl Ozimek teaches this course. I just consult about the Ardunio labs. I have some handouts and files here.
