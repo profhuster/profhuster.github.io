@@ -13,8 +13,8 @@ I am an assistant professor in the Physics Department at [Duquesne University](h
 See details in the [Courses](courses/) link in the nav bar.
 
 * General Analytical Physics Lab I &amp; II (first-year, calculus-based physics)
-* (Optics Lab)[courses/Optics] - a second year course mostly for physics majors
-* Modern Physics Lab - a second- or third-year course for physics majors.
+* [Optics Lab](courses/Optics/) - a second year course mostly for physics majors
+* [Modern Physics Lab](courses/ModernPhysics) - a second- or third-year course for physics majors.
 
 ### Latest Blog Entry
 <div class="blog-index">  
