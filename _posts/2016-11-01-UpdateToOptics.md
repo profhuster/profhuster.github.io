@@ -3,7 +3,7 @@ layout: post
 title: "Updating Optics Lab Course"
 date: 2016-11-01
 ---
-## [Update To Optics](http://profhuster.github.io/blog/2016/11/01/UpdateToOptics/)
+## [Update To Optics](http://profhuster.github.io/blog/2016/11/01/UpdateToOptics)
 
 Date: 01-Nov-2016
 
