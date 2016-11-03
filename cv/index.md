@@ -29,7 +29,8 @@ husterm@duq.edu
 
 ## Professional Experience
 * July 2014 – Present.
-Instructor & Director of Instructional Labs, Duquesne University, Pittsburgh, PA
+Assistant Professor of Physics and Director of Instructional Labs, Duquesne University, Pittsburgh, PA
+
 * January 2010 – June 2014. 
 Professor of Physics, Nyack College, Nyack and Manhattan, NY
 * September 2000 - December 2010. 
