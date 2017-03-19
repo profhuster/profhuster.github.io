@@ -1,7 +1,11 @@
 ---
 layout: default
+<<<<<<< Updated upstream
 title: "Electronics Course"
 date: 2016-11-01
+=======
+title: Electronics
+>>>>>>> Stashed changes
 ---
 
 # Electronic Course

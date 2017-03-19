@@ -1,8 +1,13 @@
 ---
 layout: default
 title: Optics Lab
+<<<<<<< Updated upstream
 ---
 
+=======
+permalink: /opticslab/
+---
+>>>>>>> Stashed changes
 # Optics Lab
 This is a one semester, one credit laboratory intended to be taken concurrently with the Optics lecture course.
 * [Syllabus](Files/OpticsLabSyllabus16a.pdf)
